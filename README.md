@@ -33,7 +33,7 @@ sudo apt install python3 pipx libsecret-tools
 레포를 받은 뒤 설치합니다.
 
 ```bash
-git clone REPOSITORY_URL
+git clone https://github.com/sangjaepark0000/pknu-lms-sync.git
 cd pknu-lms-sync
 pipx install .
 pknu-lms-sync setup
